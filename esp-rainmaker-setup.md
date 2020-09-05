@@ -1,7 +1,7 @@
 ## Explanation -- short version of what is offered [here](https://rainmaker.espressif.com/docs/get-started.html)
 
 Rainmaker is pretty much a custom homekit for your custom esp32 devices.  
-It allows you to put a new build and now have to reconnect the device to their network.
+It allows you to put a new build and now have to reconnect the device to their network.  
 Otherwise, I could not find any important uses of that
 
 ## Installation
