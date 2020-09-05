@@ -23,7 +23,7 @@ cd esp-idf
 . ./export.sh
 ```
 
-After this step, you have now added all necessary environments to your $PATH. You can check that by running echo $PATH.
+After this step, you have now added all necessary environments to your $PATH. You can check that by running echo $PATH. **Please note that you need to run . ./export.sh every time you exit your terminal**
 
 
 ## Connection
