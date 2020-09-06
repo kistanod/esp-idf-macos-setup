@@ -4,6 +4,8 @@ After a dozen of mistakes and trials, here's a complete guide on how to set up, 
 
 ## Installation
 
+**Do not set up the toolchain, just follow these instructions**
+
 
 Use the package manager [brew](https://brew.sh/) to install cmake ninja ccache.  
 Brew will also install necessary XCode command line tools.
