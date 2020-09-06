@@ -56,3 +56,14 @@ Make sure to run fullclean if your build returns an error
 ```bash
 idf.py -p /dev/cu.usbserial-0001 fullclean
 ```
+
+## Error Wiki
+
+xcrun: error: invalid active developer path  
+
+[GitHub Link](https://github.com/espressif/esptool/issues/540#issuecomment-687324586)  
+
+ninja: build stopped: subcommand failed.  
+ninja failed with exit code 1  
+
+[GitHub Link](https://github.com/espressif/esptool/issues/540#issuecomment-681863191)
