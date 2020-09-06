@@ -47,6 +47,12 @@ idf.py build
 
 ## Flashing and Monitoring
 ```bash
-idf.py -p PORT flash
-idf.py -p PORT monitor
+idf.py -p /dev/cu.usbserial-0001 flash
+idf.py -p /dev/cu.usbserial-0001 monitor
+```
+
+## Fullclean
+Make sure to run fullclean if your build returns an error
+```bash
+idf.py -p /dev/cu.usbserial-0001 fullclean
 ```
